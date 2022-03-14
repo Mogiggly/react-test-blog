@@ -1,1 +1,2 @@
-node_module
+# anywhere in .gitignore
+node_modules
